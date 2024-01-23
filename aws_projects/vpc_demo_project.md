@@ -86,5 +86,9 @@ Now login to ec2 private ip from bastion-host
 * ` ssh -i test.pem ubuntu@10.0.149.11`
   
 ![Screenshot-2024-01-23-015322.png](https://i.postimg.cc/kG2XpY11/Screenshot-2024-01-23-015322.png)
+
 * `python3 -m http.server 8000`
+- Browse from web browser and copy dns name
+* `aws-prod-example-813467082.us-east-1.elb.amazonaws.com`
+   
 ![Screenshot-2024-01-23-020057.png](https://i.postimg.cc/bwKgGwFC/Screenshot-2024-01-23-020057.png)
