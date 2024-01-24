@@ -30,3 +30,6 @@ Its a  Domain Name System (DNS) web service.
 1. Domains registration
 2. Hosted zones: it stored all dns info
 3. Health check
+### Aws S3 Bucket
+#### Amazon s3(Simple Storage Service)
+It allows users to store and retrieve data from anywhere on the web.
