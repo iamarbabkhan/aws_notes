@@ -33,3 +33,8 @@ Its a  Domain Name System (DNS) web service.
 ### Aws S3 Bucket
 #### Amazon s3(Simple Storage Service)
 It allows users to store and retrieve data from anywhere on the web.
+#### Advantages of S3
+- Durability and availability
+- Scalability
+- Security
+- Cost-effective
