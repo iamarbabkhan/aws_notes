@@ -31,10 +31,12 @@ Its a  Domain Name System (DNS) web service.
 2. Hosted zones: it stored all dns info
 3. Health check
 ### Aws S3 Bucket
-#### Amazon s3(Simple Storage Service)
+#### Amazon (Simple Storage Service) S3
 It allows users to store and retrieve data from anywhere on the web.
 #### Advantages of S3
 - Durability and availability
 - Scalability
 - Security
 - Cost-effective
+### Aws Cloud Formation Template (CFT)
+
