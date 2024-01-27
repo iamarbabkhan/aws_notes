@@ -39,4 +39,20 @@ It allows users to store and retrieve data from anywhere on the web.
 - Security
 - Cost-effective
 ### Aws Cloud Formation Template (CFT)
+Its a aws service which create, managed aws resources using templates 
+#### CLI vs Aws CFT
+Cli: its only use to perform some short and quick action on aws
+Cft: create resources and huge stacks
+#### services
+- Drift detection
+- Templates: Yaml, json
+- Declarative: you specify what you want
+- Stacks: a collection of aws resources created and managed as a single unit.
+- Version Control: templates can be stored and version controlled
 
+### CI/CD
+#### Aws code commit:
+Its a version control system service by amazon. It only create private repository in aws
+#### Aws code pipeline:
+#### Aws code build:
+#### Aws code deploy:
