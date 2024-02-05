@@ -61,4 +61,4 @@ Its a version control system service by amazon. It only create private repositor
 Amazon CloudWatch is a monitoring and management service. it collect and track metrics, collect and monitor log files, and set alarms.
 
 ### Aws Lambda
-its a aws selverless compute platform. 
+its a aws selverless compute service without managing severs.
