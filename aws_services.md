@@ -62,3 +62,5 @@ Amazon CloudWatch is a monitoring and management service. it collect and track m
 
 ### Aws Lambda
 its a aws selverless compute service without managing severs.
+
+### Aws Cost Optimazation:
