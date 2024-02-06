@@ -65,3 +65,5 @@ its a aws selverless compute service without managing severs.
 
 ### Aws Cost Optimazation:
 ### Aws Cloud Front
+Amazon CloudFront is a content delivery network(cdn) operated by Amazon Web Services.
+![cdn](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpM6VAuJ5ulw0QAWt9yfm34cEQtehm-Zls6Q&usqp=CAU)
