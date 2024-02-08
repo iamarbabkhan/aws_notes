@@ -69,3 +69,12 @@ AWS cost optimization managing AWS resources that maximizes efficiency and minim
 ### Aws Cloud Front
 Amazon CloudFront is a content delivery network(cdn) operated by Amazon Web Services. It helps deliver content, such as web pages, videos, images, and other static or dynamic assets, to users with low latency and high transfer speeds.
 ![cdn](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpM6VAuJ5ulw0QAWt9yfm34cEQtehm-Zls6Q&usqp=CAU)
+### Aws Elastic Container Registery (ECR)
+It stores container images online. Like dockerhub 
+#### ECR vs DockerHub
+- Mostly for private container registery the organization are use ECR
+- For public container registery the organization are use dockerhub
+
+### Aws Elastic Container Service(ECS)
+its a container orchestration service provided by aws.
+- its only restricted to aws
