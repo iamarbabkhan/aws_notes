@@ -78,3 +78,4 @@ It stores container images online. Like dockerhub
 ### Aws Elastic Container Service(ECS)
 its a container orchestration service provided by aws.
 - its only restricted to aws
+- AWS Fargate is a serverless compute engine for containers
