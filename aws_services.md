@@ -79,3 +79,7 @@ It stores container images online. Like dockerhub
 its a container orchestration service provided by aws.
 - its only restricted to aws
 - AWS Fargate is a serverless compute engine for containers
+
+### Aws Elastic Kubernetes Service (EKS)
+Aws Eks is a fully managed kubernetes service.
+Eks is a control Plane 
