@@ -83,3 +83,9 @@ its a container orchestration service provided by aws.
 ### Aws Elastic Kubernetes Service (EKS)
 Aws Eks is a fully managed kubernetes service.
 Eks is a control Plane 
+
+### Aws secret manager
+It helps to securely manage and rotate access to sensitive information such as database or application credentials, OAuth tokens, API keys.
+
+- Systems manager
+- Secret manager
