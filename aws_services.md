@@ -89,3 +89,5 @@ It helps to securely manage and rotate access to sensitive information such as d
 
 - Systems manager
 - Secret manager
+1. Aws secret manager is only restricted to aws.
+2. Hashicorp vault is supported multi cloud or hybrid cloud.
