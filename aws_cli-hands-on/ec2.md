@@ -13,6 +13,7 @@
 Copy the pem file
 * `scp -i  /home/mobaxterm/Desktop/arbab/test.pem /home/mobaxterm/Desktop/arbab/test.pem ubuntu@54.89.245.139:/home/ubuntu`
 * `aws ec2 run-instances --image-id ami-xxxxxxxx --count 1 --instance-type t2.micro --key-name test --security-group-ids sg-xxxxxxx --subnet-id subnet-xxxxxxx --tag-specifications 'ResourceType=instance,Tags=[{Key=Name,Value=demo}]' --region us-east-1`
+
 ![Screenshot-2024-01-31-003500.png](https://i.postimg.cc/s2MRnz7s/Screenshot-2024-01-31-003500.png)
 ![Screenshot-2024-01-31-003610.png](https://i.postimg.cc/cH7khk9d/Screenshot-2024-01-31-003610.png)
 #### Shut down instalces
