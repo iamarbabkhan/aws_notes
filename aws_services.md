@@ -22,8 +22,8 @@ A virtual private cloud (VPC) is a secure, isolated private cloud hosted within 
 * private subnet
 1. Nat gateway- its helping to the server to the download resources from internet and  mask and change the actual ip address
 2. Network access control list (Nacl): an optional layer of security for your VPC that acts as a firewall for controlling traffic in and out of one or more subnets
-3. Security group is applied for the ec2 instances level
-4. Nacl is applied for the subnet level
+3. Security group is applied inbound and outbout traffic rules for the ec2 instance.
+4. Nacl is applied inbound and outbout traffic rules for the subnet.
 ### Route 53
 Its a  Domain Name System (DNS) web service.
 #### Services:
