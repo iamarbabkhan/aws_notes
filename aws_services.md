@@ -12,10 +12,8 @@ Amazon Elastic Compute Cloud. It creates virtual server over cloud.
 A virtual private cloud (VPC) is a secure, isolated private cloud hosted within a public cloud.
 ![vpc](https://k21academy.com/wp-content/uploads/2020/11/Picture2-2.png)
 #### Vpc Component
-* region
-* zone availability
-* ip address
-* subnet
+* Region
+* Availability Zones
 * internet gateway
 * public subnet
 * load balancer
